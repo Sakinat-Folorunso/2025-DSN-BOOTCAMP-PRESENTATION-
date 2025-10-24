@@ -10,7 +10,5 @@ This repository contains my keynote slide deck for **Bootcamp 2025**, titled:
 - NLP for Low-Resource Languages
 - AI and Innovation in Africa
 
-📥 [Download the Slide Deck](./Dr-Sakinat-Bootcamp-2025-Slide.pptx)
-
 ---
 © 2025 Dr. Sakinat Folorunso | All Rights Reserved
